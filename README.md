@@ -12,22 +12,22 @@ Integration with third-party tools such as Google Analytics and Font Awesome.
 To get started with this project:
 
 Clone the repository.
-Install dependencies: npm install.
-Run the project in development mode: npm run dev.
-Open http://localhost:3000 in your browser.
+- Install dependencies: npm install.
+- Run the project in development mode: npm run dev.
+- Open http://localhost:3000 in your browser.
 
 ## Customization
 To customize the portfolio:
 
-Modify Markdown files.
-Modify global styles in the /styles/main.css file.
-Add new pages in the /pages directory.
+- Modify Markdown files.
+- Modify global styles in the /styles/main.css file.
+- Add new pages in the /pages directory.
 
 ## Contributions
 This project is open-source and contributions are welcome. If you would like to contribute, please follow these steps:
 
-Fork the repository.
-Create a new branch for your changes: git checkout -b feature/your-feature-name.
-Make your changes and commit them: git commit -m 'Add some feature'.
-Push your changes to the branch: git push origin feature/your-feature-name.
-Submit a pull request.
+- Fork the repository.
+- Create a new branch for your changes: git checkout -b feature/your-feature-name.
+- Make your changes and commit them: git commit -m 'Add some feature'.
+- Push your changes to the branch: git push origin feature/your-feature-name.
+- Submit a pull request.
