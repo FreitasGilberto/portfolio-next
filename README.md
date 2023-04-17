@@ -1,6 +1,8 @@
 # Portfolio - Next.js & Nextra
 This is a personal portfolio project built with Next.js and [Nextra](https://nextra.vercel.app/). Next.js is a **React** framework that enables server-side and client-side web application development, and Nextra is a package of themes and tools for creating Markdown-based documentation websites.
 
+You can access my website by clicking [here](portfolio-next-r86hfybfy-freitasgilberto.vercel.app).
+
 ## Features
 Personal portfolio showcasing skills, experience, and projects.
 Customizable design using React components and global styles.
