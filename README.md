@@ -8,7 +8,7 @@ Support for Markdown-based content and usage of Nextra as a page generation tool
 Optimized page routing and loading functionality through Next.js.
 Integration with third-party tools such as Google Analytics and Font Awesome.
 
-##How to Use
+## How to Use
 To get started with this project:
 
 Clone the repository.
@@ -16,14 +16,14 @@ Install dependencies: npm install.
 Run the project in development mode: npm run dev.
 Open http://localhost:3000 in your browser.
 
-##Customization
+## Customization
 To customize the portfolio:
 
 Modify Markdown files.
 Modify global styles in the /styles/main.css file.
 Add new pages in the /pages directory.
 
-##Contributions
+## Contributions
 This project is open-source and contributions are welcome. If you would like to contribute, please follow these steps:
 
 Fork the repository.
